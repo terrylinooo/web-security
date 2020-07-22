@@ -1,5 +1,7 @@
 # Shieldon Web-Security
 
+[![Build Status](https://travis-ci.org/terrylinooo/web-security.svg?branch=master)](https://travis-ci.org/terrylinooo/web-security) [![codecov](https://codecov.io/gh/terrylinooo/web-security/branch/master/graph/badge.svg)](https://codecov.io/gh/terrylinooo/web-security) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 This package is a part of [Shieldon Firewall 2](https://github.com/terrylinooo/shieldon).
 
 ## Installation
